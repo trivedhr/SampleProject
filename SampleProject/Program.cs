@@ -12,6 +12,7 @@ namespace SampleProject
         /// The main entry point for the application.
         /// </summary>
         /// //commnet added
+        // this line added in git 
         [STAThread]
         static void Main()
         {
