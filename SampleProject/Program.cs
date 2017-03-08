@@ -11,6 +11,7 @@ namespace SampleProject
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// //commnet added
         [STAThread]
         static void Main()
         {
